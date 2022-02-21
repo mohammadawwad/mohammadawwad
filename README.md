@@ -14,7 +14,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="git" width="40" height="40">
   <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" alt="express" width="40" height="40">
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="40" height="40">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="git" width="40" height="40">
+  <img src="https://img.icons8.com/stickers/100/000000/github.png" alt="git" width="40" height="40">
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="git" width="40" height="40">
   <img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original.svg" alt="git" width="40" height="40">
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="git" width="40" height="40">
@@ -72,16 +72,16 @@ https://media0.giphy.com/media/17b875GGvV9m9sLmNc/giphy.gif
 
 ### Find me in:
 <a target="_blank" href="https://personal-website.awwad.repl.co/">
-  <img align="left" alt="Mohammad's website" src="https://img.icons8.com/color/30/000000/globe.png" style=" color:'white' "/>
+  <img align="left" alt="Mohammad's website" src="https://img.icons8.com/external-prettycons-lineal-color-prettycons/49/000000/external-portfolio-user-interface-vol-3-prettycons-lineal-color-prettycons-2.png" style="color:'white' "/>
 </a>
 <a target="_blank" href="https://www.linkedin.com/in/mohammad--awwad/">
-  <img align="left" alt="Mohammad's Linkdein" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img align="left" alt="Mohammad's Linkdein" src="" />
 </a>
 <a target="_blank" href="https://github.com/mohammadawwad">
-  <img align="left" alt="Mohammad's Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  <img align="left" alt="Mohammad's Github" src="https://img.icons8.com/bubbles/50/000000/github.png" />
 </a>
-<a target="_blank mailto="mohd-awwad@hotmail.com">
-  <img align="left" alt="Mohammad's mail" src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" style=" color:'white' "/>
+<a target="_blank" mailto="mohd-awwad@hotmail.com">
+  <img align="left" alt="Mohammad's mail" src="https://img.icons8.com/fluency/48/000000/email-open.png" style=" color:'white' "/>
 </a>
 <br/>
 <br/>
