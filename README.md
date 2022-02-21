@@ -75,7 +75,7 @@ https://media0.giphy.com/media/17b875GGvV9m9sLmNc/giphy.gif
   <img align="left" alt="Mohammad's website" src="https://img.icons8.com/external-prettycons-lineal-color-prettycons/49/000000/external-portfolio-user-interface-vol-3-prettycons-lineal-color-prettycons-2.png" style="color:'white' "/>
 </a>
 <a target="_blank" href="https://www.linkedin.com/in/mohammad--awwad/">
-  <img align="left" alt="Mohammad's Linkdein" src="" />
+  <img align="left" alt="Mohammad's Linkdein" src="https://img.icons8.com/color/48/000000/linkedin.png" />
 </a>
 <a target="_blank" href="https://github.com/mohammadawwad">
   <img align="left" alt="Mohammad's Github" src="https://img.icons8.com/bubbles/50/000000/github.png" />
@@ -86,4 +86,3 @@ https://media0.giphy.com/media/17b875GGvV9m9sLmNc/giphy.gif
 <br/>
 <br/>
 
-<!-- ![](https://komarev.com/ghpvc/?username=mohammadawwad) -->
