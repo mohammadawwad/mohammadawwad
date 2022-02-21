@@ -85,4 +85,3 @@ https://media0.giphy.com/media/17b875GGvV9m9sLmNc/giphy.gif
 </a>
 <br/>
 <br/>
-[mohd-awwad@hotmail.com](mailto:mohd-awwad@hotmail.com)
