@@ -50,20 +50,20 @@ https://media0.giphy.com/media/17b875GGvV9m9sLmNc/giphy.gif
   <br />
  
 <p align="center" >
-   <a href="https://github.com/mohammadawwad/github-readme-stats"> 
+   <a href="https://github.com/mohammadawwad"> 
     <img  src="https://github-readme-stats.vercel.app/api?username=mohammadawwad&&show_icons=true&theme=radical"/>
    </a>
 </p>
 <br />
 
 <p align="center" >
-   <a href="https://github.com/mohammadawwad/github-readme-stats"> 
+   <a href="https://github.com/mohammadawwad"> 
     <img  src="https://github-readme-streak-stats.herokuapp.com/?user=mohammadawwad&theme=dark"/>
    </a>
 </p>
 
 <p align="center" >
-   <a href="https://github.com/mohammadawwad/github-readme-stats"> 
+   <a href="https://github.com/mohammadawwad"> 
     <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadawwad&theme=radical&layout=compact&hide=c"/>
    </a>
 </p>
