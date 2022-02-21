@@ -58,7 +58,7 @@ https://media0.giphy.com/media/17b875GGvV9m9sLmNc/giphy.gif
 
 <p align="center" >
    <a href="https://github.com/mohammadawwad"> 
-    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=mohammadawwad&theme=dark"/>
+    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=mohammadawwad&theme=radical"/>
    </a>
 </p>
 
