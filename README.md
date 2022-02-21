@@ -80,7 +80,7 @@ https://media0.giphy.com/media/17b875GGvV9m9sLmNc/giphy.gif
 <a target="_blank" href="https://github.com/mohammadawwad">
   <img align="left" alt="Mohammad's Github" src="https://img.icons8.com/bubbles/50/000000/github.png" />
 </a>
-<a target="_blank" href="mailto:mohd-awwad@hotmail.com">
+<a target="_blank" [mohd-awwad@hotmail.com](mailto:mohd-awwad@hotmail.com)>
   <img align="left" alt="Mohammad's mail" src="https://img.icons8.com/fluency/48/000000/email-open.png" style=" color:'white' "/>
 </a>
 <br/>
