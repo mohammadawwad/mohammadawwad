@@ -85,3 +85,8 @@ https://media0.giphy.com/media/17b875GGvV9m9sLmNc/giphy.gif
 </a>
 <br/>
 <br/>
+
+
+![](https://komarev.com/ghpvc/?username=mohammadawwad&style=flat-square&label=Views)
+![](https://badges.pufler.dev/visits/mohammadawwad/mohammadawwad?color=black&logo=github&style=flat-square)
+
