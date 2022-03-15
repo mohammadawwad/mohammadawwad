@@ -1,10 +1,18 @@
 <div align="center">
-   <h1>Hi there, I'm Mohammad <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
+   <h1>Hi there, I'm <a href="https://personal-website.awwad.repl.co/">Mohammad Awwad</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
 </div>
 
+<h2>About Me</h2>
+<h4>
+I am a passionate programmer from Vancouver BC, Canada, and I’m always wanting to learn new things as well as teach others. I am a lead programmer on competitive robotics team FRC 6390 Hephaestus. Some of the things I love to do are competeing in hackathons, programming robots, websites, bots, and much more...
+</h4>
+ 
+<br/>
+<br/>
 
+
+  <h2 align="center">Langauges and Technologies <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h2>
 <p align="center">
-  <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="react" width="40" height="40">
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40">
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javaScript" width="40" height="40">
@@ -21,30 +29,11 @@
    
 </p>
 
-<!--
-## About me.
- I am a software developer [my website](https://google.com).
-### Tech stack and tools I work with:
-Full Stack Software Engineer, JavaScript, React, Redux, Express, Node, SQL, HTML5, CSS, Python, Flask, SQLAlchemy
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-
-
-<!--https://media2.giphy.com/media/ksE9feSa2b4V2GYwY4/giphy.gif 
-https://media0.giphy.com/media/17b875GGvV9m9sLmNc/giphy.gif
--->
+<br/>
+<br/>
 
 <div align="center">
-<h3><img src="https://media1.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif"  height="20"> Mohammad Awwad  👨‍💻  Vancouver, BC <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
+<h2><img src="https://media1.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif"  height="20"> Mohammad's  👨‍💻  Github Stats</h2>
 </div>
   
   <br />
