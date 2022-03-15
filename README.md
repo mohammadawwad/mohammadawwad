@@ -2,9 +2,8 @@
    <h1>Hi there, I'm <a href="https://personal-website.awwad.repl.co/">Mohammad Awwad</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
 </div>
 
-<h2>About Me</h2>
-<h4>
-I am a passionate programmer from Vancouver BC, Canada, and I’m always wanting to learn new things as well as teach others. I am a lead programmer on competitive robotics team FRC 6390 Hephaestus. Some of the things I love to do are competeing in hackathons, programming robots, websites, bots, and much more...
+<h4 align="center">
+I am a passionate programmer from Vancouver BC, Canada, and I’m always wanting to learn new things as well as teach others. I am a lead programmer on FRC 6390 Hephaestus, a competitive robotics team. Some of the things I love to do are competeing in hackathons, programming robots, websites, bots, and much more...
 </h4>
  
 <br/>
@@ -36,7 +35,7 @@ I am a passionate programmer from Vancouver BC, Canada, and I’m always wanting
 <h2><img src="https://media1.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif"  height="20"> Mohammad's  👨‍💻  Github Stats</h2>
 </div>
   
-  <br />
+<br />
  
 <p align="center" >
    <a href="https://github.com/mohammadawwad"> 
@@ -57,7 +56,22 @@ I am a passionate programmer from Vancouver BC, Canada, and I’m always wanting
    </a>
 </p>
 
+<br/>
+<br/>
 
+<h2 align="center">Some Recent Projects</h2>
+
+<div align="center">
+   <a href="https://github.com/FRC-6390/FRC-Season-2022"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=FRC-6390&repo=FRC-Season-2022&theme=radical" /></a>
+   <a href="https://github.com/mohammadawwad/First-Journey"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=mohammadawwad&repo=First-Journey&theme=radical" /></a>
+   <a href="https://github.com/mohammadawwad/Java-Pathfinding"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=mohammadawwad&repo=Java-Pathfinding&theme=radical" /></a>
+   <a href="https://github.com/mohammadawwad/Stylish-Tile-web"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=mohammadawwad&repo=Stylish-Tile-web&theme=radical" /></a>
+   <a href="https://github.com/mohammadawwad/Python-Vision-Processing"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=mohammadawwad&repo=Python-Vision-Processing&theme=radical" /></a>
+   <a href="https://github.com/mohammadawwad/Minelexa"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=mohammadawwad&repo=Minelexa&theme=radical" /></a>
+</div>
+
+<br/>
+<br/>
 
 ### Find me in:
 <a target="_blank" href="https://personal-website.awwad.repl.co/">
