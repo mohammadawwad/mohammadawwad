@@ -90,6 +90,6 @@ I am a passionate programmer from Vancouver BC, Canada, and I’m always wanting
 <br/>
 
 
-![](https://komarev.com/ghpvc/?username=mohammadawwad&style=flat-square&label=Views)
-![](https://badges.pufler.dev/visits/mohammadawwad/mohammadawwad?color=black&logo=github&style=flat-square)
+<!---![](https://komarev.com/ghpvc/?username=mohammadawwad&style=flat-square&label=Views)
+![](https://badges.pufler.dev/visits/mohammadawwad/mohammadawwad?color=black&logo=github&style=flat-square)---!>
 
