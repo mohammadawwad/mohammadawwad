@@ -17,9 +17,9 @@ I am a passionate programmer from Vancouver BC, Canada, and I’m always wanting
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javaScript" width="40" height="40">
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="html" width="40" height="40">
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="css" width="40" height="40">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="git" width="40" height="40">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40" style="opacity: 0.2;">
   <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" alt="express" width="40" height="40">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="git" width="40" height="40">
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="40" height="40">
   <img src="https://img.icons8.com/stickers/100/000000/github.png" alt="git" width="40" height="40">
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="git" width="40" height="40">
