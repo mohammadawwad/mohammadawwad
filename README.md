@@ -74,7 +74,7 @@ I am a passionate programmer from Vancouver BC, Canada, and I’m always wanting
 <br/>
 
 ### Find me in:
-<a target="_blank" href="https://personal-website.awwad.repl.co/">
+<a target="_blank" href="https://www.mohammadawwad.com">
   <img align="left" alt="Mohammad's website" src="https://img.icons8.com/external-prettycons-lineal-color-prettycons/49/000000/external-portfolio-user-interface-vol-3-prettycons-lineal-color-prettycons-2.png" style="color:'white' "/>
 </a>
 <a target="_blank" href="https://www.linkedin.com/in/mohammad--awwad/">
