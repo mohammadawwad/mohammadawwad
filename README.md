@@ -73,10 +73,7 @@ I am a passionate programmer from Vancouver BC, Canada, and I’m always wanting
 <br/>
 <br/>
 
-<h2 align="center">Check Out The Robotics Organization I Manage</h2>
-<a target="_blank" href="https://github.com/FRC-6390">
-  <img align="center" src="" style="color:'white' "/>
-</a>
+<h2 align="center"><a target="_blank" href="https://github.com/FRC-6390">Check Out The Robotics Organization I Manage</a></h2>
 
 
 <h3 align="left">Fun Facts:</h3>
@@ -85,6 +82,8 @@ I am a passionate programmer from Vancouver BC, Canada, and I’m always wanting
   <li align="left"> First Canadian Team to Win the very pretigous award, Chairman's in the Canadian Pacific Regional </li>
   <li align="left"> Won numerous times and have qualified for the World Championshps in Houstan, Texas. 5 conseceutives year in a row since we began competeing </li>
 <ul/>
+<br/>
+<br />
 
 ### Find me in:
 <a target="_blank" href="https://www.mohammadawwad.com">
@@ -92,9 +91,6 @@ I am a passionate programmer from Vancouver BC, Canada, and I’m always wanting
 </a>
 <a target="_blank" href="https://www.linkedin.com/in/mohammad--awwad/">
   <img align="right" alt="Mohammad's Linkdein" src="https://img.icons8.com/color/48/000000/linkedin.png" />
-</a>
-<a target="_blank" href="https://github.com/mohammadawwad">
-  <img align="right" alt="Mohammad's Github" src="https://img.icons8.com/bubbles/50/000000/github.png" />
 </a>
 <a target="_blank" href="mailto:mohd-awwad@hotmail.com">
   <img align="right" alt="Mohammad's mail" src="https://img.icons8.com/fluency/48/000000/email-open.png" style=" color:'white' "/>
