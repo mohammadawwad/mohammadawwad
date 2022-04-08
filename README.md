@@ -73,6 +73,19 @@ I am a passionate programmer from Vancouver BC, Canada, and I’m always wanting
 <br/>
 <br/>
 
+<h2 align="center">Check Out The Robotics Organization I Manage</h2>
+<a target="_blank" href="https://github.com/FRC-6390">
+  <img align="center" src="" style="color:'white' "/>
+</a>
+
+
+<h3 align="left">Fun Facts:</h3>
+<ul align="left">
+  <li> First team to build and program a Swerve Drive robot in BC, Canada </li>
+  <li> First Canadian Team to Win the very pretigous award, Chairman's in the Canadian Pacific Regional </li>
+  <li> Won numerous times and have qualified for the World Championshps in Houstan, Texas. 5 conseceutives year in a row since we began competeing </li>
+<ul/>
+
 ### Find me in:
 <a target="_blank" href="https://www.mohammadawwad.com">
   <img align="left" alt="Mohammad's website" src="https://img.icons8.com/external-prettycons-lineal-color-prettycons/49/000000/external-portfolio-user-interface-vol-3-prettycons-lineal-color-prettycons-2.png" style="color:'white' "/>
