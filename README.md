@@ -80,10 +80,10 @@ I am a passionate programmer from Vancouver BC, Canada, and I’m always wanting
 
 
 <h3 align="left">Fun Facts:</h3>
-<ul align="left">
-  <li> First team to build and program a Swerve Drive robot in BC, Canada </li>
-  <li> First Canadian Team to Win the very pretigous award, Chairman's in the Canadian Pacific Regional </li>
-  <li> Won numerous times and have qualified for the World Championshps in Houstan, Texas. 5 conseceutives year in a row since we began competeing </li>
+<ul >
+  <li align="left"> First team to build and program a Swerve Drive robot in BC, Canada </li>
+  <li align="left"> First Canadian Team to Win the very pretigous award, Chairman's in the Canadian Pacific Regional </li>
+  <li align="left"> Won numerous times and have qualified for the World Championshps in Houstan, Texas. 5 conseceutives year in a row since we began competeing </li>
 <ul/>
 
 ### Find me in:
@@ -91,13 +91,13 @@ I am a passionate programmer from Vancouver BC, Canada, and I’m always wanting
   <img align="left" alt="Mohammad's website" src="https://img.icons8.com/external-prettycons-lineal-color-prettycons/49/000000/external-portfolio-user-interface-vol-3-prettycons-lineal-color-prettycons-2.png" style="color:'white' "/>
 </a>
 <a target="_blank" href="https://www.linkedin.com/in/mohammad--awwad/">
-  <img align="left" alt="Mohammad's Linkdein" src="https://img.icons8.com/color/48/000000/linkedin.png" />
+  <img align="right" alt="Mohammad's Linkdein" src="https://img.icons8.com/color/48/000000/linkedin.png" />
 </a>
 <a target="_blank" href="https://github.com/mohammadawwad">
-  <img align="left" alt="Mohammad's Github" src="https://img.icons8.com/bubbles/50/000000/github.png" />
+  <img align="right" alt="Mohammad's Github" src="https://img.icons8.com/bubbles/50/000000/github.png" />
 </a>
 <a target="_blank" href="mailto:mohd-awwad@hotmail.com">
-  <img align="left" alt="Mohammad's mail" src="https://img.icons8.com/fluency/48/000000/email-open.png" style=" color:'white' "/>
+  <img align="right" alt="Mohammad's mail" src="https://img.icons8.com/fluency/48/000000/email-open.png" style=" color:'white' "/>
 </a>
 <br/>
 <br/>
